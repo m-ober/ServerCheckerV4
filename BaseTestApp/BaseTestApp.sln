@@ -1,6 +1,8 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual C# Express 2008
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SC.GUI", "BaseTestApp\SC.GUI.csproj", "{26805299-9908-493D-9508-BD12B2962CB3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SC.DefaultPlugins.GUI", "SC.DefaultPlugins.GUI\SC.DefaultPlugins.GUI.csproj", "{BF041914-F3B0-4EA4-9980-CEA67FB407D5}"
