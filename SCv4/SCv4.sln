@@ -1,6 +1,8 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SC.Core", "SCv4\SC.Core.csproj", "{4A516F07-5573-466B-8973-0ECCBE3EBBF1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SC.Interfaces", "SCv4.Interfaces\SC.Interfaces.csproj", "{C5D3996C-74D8-458D-B297-7DD98FBFBEF3}"
